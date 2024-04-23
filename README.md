@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aronyaina
 - 👀 I’m interested in Web development and deployement.
-- 🌱 I’m currently learning AWS CLOUD and ECS.
-- 💞️ I’m looking to collaborate on any Project related to deployement especially.
+- 🌱 I’m currently learning Ansible, Go , python and DevOps Stuff.
+- 💸 I’m looking to collaborate on any Project related to deployement especially.
 - 📫 How to reach me : email -- ravaronyaina@gmail.com
 
 <!---
